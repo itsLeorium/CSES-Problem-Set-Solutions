@@ -3,7 +3,7 @@ My own solutions to the CSES Problem Set, written in C++
 ## Table of Contents
 |         Type          | Problems Solved |
 |-----------------------|:---------------:|
-| [Introductory Problems](https://github.com/itsLeorium/CSES-Problem-Set-Solutions/main/README.md#introductory-problems) |      1/19       |
+| [Introductory Problems](#Introductory Problems) |      1/19       |
 | Sorting and Searching |      0/35       |
 | Dynamic Programming   |      0/19       |
 | Graph Algorithms      |      0/36       |
