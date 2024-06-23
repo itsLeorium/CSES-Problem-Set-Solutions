@@ -25,8 +25,8 @@ My own AC solutions to the CSES Problem Set, written in C++
 ## Graph Algorithms
 ## Range Queries
 ## Tree Algorithms
-### Mathematics
-### String Algorithms
-### Geometry
-### Advanced Techniques
-### Additional Problems
+## Mathematics
+## String Algorithms
+## Geometry
+## Advanced Techniques
+## Additional Problems
